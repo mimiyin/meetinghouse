@@ -2,44 +2,96 @@
 let port = process.env.PORT || 8000;
 let express = require('express');
 let app = express();
-let server = require('http').createServer(app).listen(port, function () {
+let server = require('http').createServer(app).listen(port, function() {
   console.log('Server listening at port: ', port);
 });
+
+// To write files
+const fs = require('fs');
 
 // Tell server where to look for files
 app.use(express.static('public'));
 
 // Create socket connection
 let io = require('socket.io').listen(server);
+// Clients in the minister namespace
+let ministers = io.of('/minister');
+// Clients in the congregant namespace
+let congregants = io.of('/congregant');
+
 // Get the array of rooms
-let rooms = io.sockets.adapter.rooms;
+let rooms = congregants.adapter.rooms;
 let roomNum = 0;
 // How many in a group? Default is 2
 let NUM_PARTNERS = 2;
 
+// Listen for output clients to connect
+ministers.on('connection', function(socket) {
+  console.log('A minister client connected: ' + socket.id);
+
+  // Send along the prompts
+  socket.on('prompt', function(data) {
+    congregants.emit('prompt', data);
+    //console.log('Prompt: ' + data);
+  })
+
+  socket.on('complete', function(data) {
+    console.log('Complete prompt: ' + data);
+    //Write prompt to all rooms
+    for (let r in rooms) {
+      let room = rooms[r];
+      if (!room.isPrivate) continue;
+
+      // Which log to write message to
+      const path = r + '.txt';
+      // Message to write to log
+      const message = 'Prompt: ' + data;
+      // Log it
+      log(path, message);
+    }
+  })
+
+  // Listen for this output client to disconnect
+  ministers.on('disconnect', function() {
+    console.log("A minister client has disconnected " + socket.id);
+  });
+});
+
+
+
 // Listen for clients to connect
-io.sockets.on('connection', function (socket) {
-  console.log('An input client connected: ' + socket.id);
+congregants.on('connection', function(socket) {
+  console.log('An congregant client connected: ' + socket.id);
 
   // Join a room
   joinRoom(socket);
 
   // Listen for data messages
-  socket.on('text', function (data) {
+  socket.on('text', function(data) {
     // Data comes in as whatever was sent, including objects
     //console.log("Received: 'message' " + data);
 
     // Which private room does this client belong to?
-    let room = socket.room;
+    let r = socket.room;
 
     // Share data to all members of room
-    socket.to(room).emit('text', data);
+    socket.to(r).emit('text', data);
+
+    // Which log to write message to
+    const path = r + '.txt';
+    // Message to write to log
+    const message = socket.id + ': ' + data;
+    // Log it
+    log(path, message);
+
   });
+
+  // Listen for complete response
 
 
   // Listen for this client to disconnect
   // Tell partners this client disconnected
-  socket.on('disconnect', function () {
+  socket.on('disconnect', function() {
     console.log("Client has disconnected " + socket.id);
 
     // Which room was this client in?
@@ -53,7 +105,7 @@ io.sockets.on('connection', function (socket) {
 
 // Join room
 function joinRoom(socket) {
- console.log(rooms);
+
   // First, add client to incomplete rooms
   for (let r in rooms) {
     let room = rooms[r];
@@ -68,6 +120,7 @@ function joinRoom(socket) {
   // If there are no incomplete rooms, create new room and join it
   addSocketToRoom(socket, roomNum);
   roomNum++;
+  console.log(rooms);
 }
 
 // Add client to room and record which room it was added to
@@ -75,4 +128,27 @@ function addSocketToRoom(socket, r) {
   socket.join(r);
   rooms[r].isPrivate = true;
   socket.room = r;
+}
+
+// Write to log file
+function log(path, message) {
+  // Break line
+  message += "\n";
+  // Check to see if the log file already exists
+  fs.access(path, fs.F_OK, (err) => {
+    if (err) {
+      console.log("Creating new log file at: " + path);
+      // Write to a new log file named with room #
+      fs.writeFile(path, message, (err) => {
+        // throws an error, you could also catch it here
+        if (err) throw err;
+      });
+      return
+    }
+    // Add to existing log file
+    fs.appendFile(path, message, function(err) {
+      if (err) throw err;
+      console.log("Added " + message + " to " + path + ".");
+    });
+  });
 }
