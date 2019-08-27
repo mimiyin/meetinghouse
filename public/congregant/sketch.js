@@ -30,7 +30,7 @@ function setup() {
 
   // Remove disconnected users
   // Display "User left" message
-  socket.on('leave room', function () {
+  socket.on('leave room', function (id) {
     display('(they left...)');
   });
 }

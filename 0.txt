@@ -1,35 +1,74 @@
-Prompt: and then what
-Prompt: I don't know
-/congregant#_wtLF7Gkm6ghUrX0AAAB: d
-/congregant#_wtLF7Gkm6ghUrX0AAAB: di
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did 
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did y
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did yo
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you 
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you s
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you sa
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you say
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you say 
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you say s
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you say so
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you say som
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you say some
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you say somet
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you say someth
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you say somethi
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you say somethin
-/congregant#_wtLF7Gkm6ghUrX0AAAB: did you say something
-/congregant#chclBGL0OoxQpourAAAC: n
-/congregant#chclBGL0OoxQpourAAAC: no
-/congregant#chclBGL0OoxQpourAAAC: no 
-/congregant#chclBGL0OoxQpourAAAC: no i
-/congregant#chclBGL0OoxQpourAAAC: no i 
-/congregant#chclBGL0OoxQpourAAAC: no i d
-/congregant#chclBGL0OoxQpourAAAC: no i di
-/congregant#chclBGL0OoxQpourAAAC: no i did
-/congregant#chclBGL0OoxQpourAAAC: no i didn
-/congregant#chclBGL0OoxQpourAAAC: no i didn'
-/congregant#chclBGL0OoxQpourAAAC: no i didn't
-Prompt: what do you think
+Prompt: hi
+Prompt: no way
+Prompt: that's away
+Prompt: do you know
+Prompt: what say you
+Prompt: hi
+Prompt: hi
+Prompt: do you know
+Prompt: what did you think
+Prompt: 
+Prompt: hi
+Prompt: what is it
+Prompt: did you know
+Prompt: hi
+Prompt: hi
+Prompt: hi
+/congregant#bu8I8E2cVgCsUJ4DAAAC: n
+/congregant#bu8I8E2cVgCsUJ4DAAAC: no
+/congregant#bu8I8E2cVgCsUJ4DAAAC: no 
+/congregant#bu8I8E2cVgCsUJ4DAAAC: no i
+/congregant#bu8I8E2cVgCsUJ4DAAAC: no i 
+/congregant#bu8I8E2cVgCsUJ4DAAAC: no i d
+/congregant#bu8I8E2cVgCsUJ4DAAAC: no i do
+/congregant#bu8I8E2cVgCsUJ4DAAAC: no i don
+/congregant#bu8I8E2cVgCsUJ4DAAAC: no i dont
+/congregant#bu8I8E2cVgCsUJ4DAAAC: h
+/congregant#bu8I8E2cVgCsUJ4DAAAC: hi
+/congregant#G8q7z4IVSubSFq2WAAAB: h
+/congregant#G8q7z4IVSubSFq2WAAAB: hi
+/congregant#0c0ioqJCMKAmTdgtAAAA: n
+/congregant#0c0ioqJCMKAmTdgtAAAA: no
+/congregant#0c0ioqJCMKAmTdgtAAAA: no 
+/congregant#0c0ioqJCMKAmTdgtAAAA: no w
+/congregant#0c0ioqJCMKAmTdgtAAAA: no wa
+/congregant#0c0ioqJCMKAmTdgtAAAA: no way
+/congregant#0c0ioqJCMKAmTdgtAAAA: n
+/congregant#0c0ioqJCMKAmTdgtAAAA: no
+/congregant#0c0ioqJCMKAmTdgtAAAA: no 
+/congregant#0c0ioqJCMKAmTdgtAAAA: no i
+/congregant#0c0ioqJCMKAmTdgtAAAA: no i'
+/congregant#0c0ioqJCMKAmTdgtAAAA: no i'm
+/congregant#0c0ioqJCMKAmTdgtAAAA: i
+/congregant#0c0ioqJCMKAmTdgtAAAA: i 
+/congregant#0c0ioqJCMKAmTdgtAAAA: i t
+/congregant#0c0ioqJCMKAmTdgtAAAA: i th
+/congregant#0c0ioqJCMKAmTdgtAAAA: i thi
+/congregant#0c0ioqJCMKAmTdgtAAAA: i thin
+/congregant#0c0ioqJCMKAmTdgtAAAA: i think
+/congregant#0c0ioqJCMKAmTdgtAAAA: i think 
+/congregant#0c0ioqJCMKAmTdgtAAAA: i think s
+/congregant#0c0ioqJCMKAmTdgtAAAA: i think so
+/congregant#0c0ioqJCMKAmTdgtAAAA: o
+/congregant#0c0ioqJCMKAmTdgtAAAA: oh
+/congregant#0c0ioqJCMKAmTdgtAAAA: oh 
+/congregant#0c0ioqJCMKAmTdgtAAAA: oh i
+/congregant#0c0ioqJCMKAmTdgtAAAA: oh i 
+/congregant#0c0ioqJCMKAmTdgtAAAA: oh i s
+/congregant#0c0ioqJCMKAmTdgtAAAA: oh i se
+/congregant#0c0ioqJCMKAmTdgtAAAA: oh i see
+Prompt: hi
+/congregant#0c0ioqJCMKAmTdgtAAAA: d
+/congregant#0c0ioqJCMKAmTdgtAAAA: do
+/congregant#0c0ioqJCMKAmTdgtAAAA: do 
+/congregant#0c0ioqJCMKAmTdgtAAAA: do y
+/congregant#0c0ioqJCMKAmTdgtAAAA: do yo
+/congregant#0c0ioqJCMKAmTdgtAAAA: do you
+/congregant#0c0ioqJCMKAmTdgtAAAA: do you 
+/congregant#0c0ioqJCMKAmTdgtAAAA: do you s
+/congregant#0c0ioqJCMKAmTdgtAAAA: do you se
+/congregant#0c0ioqJCMKAmTdgtAAAA: do you see
+/congregant#0c0ioqJCMKAmTdgtAAAA: do you see 
+/congregant#0c0ioqJCMKAmTdgtAAAA: do you see m
+/congregant#0c0ioqJCMKAmTdgtAAAA: do you see me
+Prompt: no i dont

@@ -20,9 +20,9 @@ p {
   margin-top: 40vh;
 }
 p.fade {
-  -webkit-transition: opacity 3s ease-in-out;
-  -moz-transition: opacity 3s ease-in-out;
-  -ms-transition: opacity 3s ease-in-out;
-  -o-transition: opacity 3s ease-in-out;
+  -webkit-transition: opacity 10s ease-in-out;
+  -moz-transition: opacity 10s ease-in-out;
+  -ms-transition: opacity 10s ease-in-out;
+  -o-transition: opacity 10s ease-in-out;
   opacity: 0;
 }

@@ -11,6 +11,9 @@ const fs = require('fs');
 
 // Tell server where to look for files
 app.use(express.static('public'));
+app.get('/', function (req, res) {
+  res.redirect('/congregant/')
+});
 
 // Create socket connection
 let io = require('socket.io').listen(server);
@@ -21,17 +24,30 @@ let congregants = io.of('/congregant');
 
 // Get the array of rooms
 let rooms = congregants.adapter.rooms;
-let roomNum = 0;
+let c_roomNum = 0;
+let m_roomNum = 0;
+// Minister sockets
+let mins = [];
 // How many in a group? Default is 2
 let NUM_PARTNERS = 2;
+// How many rooms?
+let NUM_ROOMS = 2;
 
 // Listen for output clients to connect
 ministers.on('connection', function(socket) {
   console.log('A minister client connected: ' + socket.id);
 
+  // Assign minister to a room
+  socket.room = m_roomNum;
+  m_roomNum++;
+  m_roomNum%=NUM_ROOMS;
+
+  // Keep track of ministers by room index
+  mins[socket.room] = socket;
+
   // Send along the prompts
   socket.on('prompt', function(data) {
-    congregants.emit('prompt', data);
+    congregants.to(socket.room).emit('prompt', data);
     //console.log('Prompt: ' + data);
   })
 
@@ -45,9 +61,9 @@ ministers.on('connection', function(socket) {
       // Which log to write message to
       const path = r + '.txt';
       // Message to write to log
-      const message = 'Prompt: ' + data;
+      const entry = 'Prompt: ' + data;
       // Log it
-      log(path, message);
+      log(path, entry);
     }
   })
 
@@ -74,15 +90,20 @@ congregants.on('connection', function(socket) {
     // Which private room does this client belong to?
     let r = socket.room;
 
+    // Wrap up data with socketId
+    let message = { id : socket.id, data : data };
+
     // Share data to all members of room
-    socket.to(r).emit('text', data);
+    socket.to(r).emit('text', message);
+    // Share to minister for room
+    socket.to(mins[r].emit('text', message));
 
     // Which log to write message to
     const path = r + '.txt';
     // Message to write to log
-    const message = socket.id + ': ' + data;
+    const entry = socket.id + ': ' + data;
     // Log it
-    log(path, message);
+    log(path, entry);
 
   });
 
@@ -95,11 +116,14 @@ congregants.on('connection', function(socket) {
     console.log("Client has disconnected " + socket.id);
 
     // Which room was this client in?
-    let room = socket.room;
+    let r  = socket.room;
     // Tell others in room client has left
-    if (rooms[room]) {
-      socket.to(room).emit('leave room');
+    if (rooms[r]) {
+      socket.to(r).emit('leave room', socket.id);
     }
+    // Tell minister you've left
+    socket.to(mins[r].emit('leave room', socket.id));
+
   });
 });
 
@@ -118,8 +142,9 @@ function joinRoom(socket) {
   }
 
   // If there are no incomplete rooms, create new room and join it
-  addSocketToRoom(socket, roomNum);
-  roomNum++;
+  addSocketToRoom(socket, c_roomNum);
+  c_roomNum++;
+  c_roomNum%=NUM_ROOMS;
   console.log(rooms);
 }
 

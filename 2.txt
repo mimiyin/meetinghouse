@@ -1,53 +1,864 @@
-/congregant#Ql1GuUMXQjtBMV_UAAAF: H
-/congregant#Ql1GuUMXQjtBMV_UAAAF: Hi
-/congregant#ms64wX1iGFS1au2VAAAG: h
-/congregant#ms64wX1iGFS1au2VAAAG: hi
-/congregant#Ql1GuUMXQjtBMV_UAAAF: W
-/congregant#Ql1GuUMXQjtBMV_UAAAF: Wh
-/congregant#Ql1GuUMXQjtBMV_UAAAF: Wha
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What 
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What d
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do 
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do y
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do yo
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you 
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you w
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you wa
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you wan
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you want
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you want 
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you want f
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you want fr
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you want fro
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you want from
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you want from 
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you want from m
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you want from me
-/congregant#Ql1GuUMXQjtBMV_UAAAF: What do you want from me?
-/congregant#ms64wX1iGFS1au2VAAAG: i
-/congregant#ms64wX1iGFS1au2VAAAG: i 
-/congregant#ms64wX1iGFS1au2VAAAG: i d
-/congregant#ms64wX1iGFS1au2VAAAG: i du
-/congregant#ms64wX1iGFS1au2VAAAG: i dun
-/congregant#ms64wX1iGFS1au2VAAAG: i dunn
-/congregant#ms64wX1iGFS1au2VAAAG: i dunno
-/congregant#A7aiWfcpvxjcKGhVAAAI: H
-/congregant#A7aiWfcpvxjcKGhVAAAI: Hi
-/congregant#_vUVGHnMBgj_HuBtAAAJ: h
-/congregant#_vUVGHnMBgj_HuBtAAAJ: hi
-/congregant#QWhc4SGVUyq53bHeAAAK: h
-/congregant#QWhc4SGVUyq53bHeAAAK: hi
-/congregant#QWhc4SGVUyq53bHeAAAK: w
-/congregant#QWhc4SGVUyq53bHeAAAK: wh
-/congregant#QWhc4SGVUyq53bHeAAAK: wha
-/congregant#QWhc4SGVUyq53bHeAAAK: what
-/congregant#QWhc4SGVUyq53bHeAAAK: what 
-/congregant#QWhc4SGVUyq53bHeAAAK: what d
-/congregant#QWhc4SGVUyq53bHeAAAK: what do
-/congregant#QWhc4SGVUyq53bHeAAAK: what do 
-/congregant#QWhc4SGVUyq53bHeAAAK: what do y
-/congregant#QWhc4SGVUyq53bHeAAAK: what do yo
-/congregant#QWhc4SGVUyq53bHeAAAK: what do you
+Prompt: hi
+Prompt: hi
+Prompt: how are you
+/congregant#Q2x9sDCfuKd_eeZgAAAL: N
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not n
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not na
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not nad
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not na
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not n
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not  
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not b
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not ba
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad
+/congregant#MjltfasF88xAmXZ3AAAJ: N
+/congregant#MjltfasF88xAmXZ3AAAJ: No
+/congregant#MjltfasF88xAmXZ3AAAJ: Not
+/congregant#MjltfasF88xAmXZ3AAAJ: Not 
+/congregant#MjltfasF88xAmXZ3AAAJ: Not g
+/congregant#MjltfasF88xAmXZ3AAAJ: Not go
+/congregant#MjltfasF88xAmXZ3AAAJ: Not goo
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad i
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad i
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I s
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I se
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see i
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it w
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wb
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wbe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wber
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wbery
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wberyw
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wberywe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wberywer
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wberywe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wberyw
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wbery
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wber
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wbe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it wb
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it w
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it e
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it ev
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it eve
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it ever
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it every
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it everyw
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it everywh
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it everywhe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it everywher
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it everywhere
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good 
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good i
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I 
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I d
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I d
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I 
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I d
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do 
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do k
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do kn
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do kno
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do kn
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do k
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do 
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do n
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it everywher
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do no
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it everywhe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it everywh
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it everyw
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it every
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do now
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it ever
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it eve
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it ev
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it e
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it 
+/congregant#MjltfasF88xAmXZ3AAAJ: Not good I do now 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see it
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see i
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I see
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I se
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I s
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad I
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not bad
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not ba
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not b
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not 
+/congregant#MjltfasF88xAmXZ3AAAJ: N
+/congregant#MjltfasF88xAmXZ3AAAJ: No
+/congregant#MjltfasF88xAmXZ3AAAJ: Not
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Not
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No
+/congregant#Q2x9sDCfuKd_eeZgAAAL: N
+/congregant#Q2x9sDCfuKd_eeZgAAAL: 
+/congregant#MjltfasF88xAmXZ3AAAJ: N
+/congregant#MjltfasF88xAmXZ3AAAJ: No
+/congregant#MjltfasF88xAmXZ3AAAJ: Now
+/congregant#MjltfasF88xAmXZ3AAAJ: Now 
+/congregant#MjltfasF88xAmXZ3AAAJ: Now w
+/congregant#MjltfasF88xAmXZ3AAAJ: Now wh
+/congregant#MjltfasF88xAmXZ3AAAJ: Now wht
+Prompt: how do you feel now
+/congregant#Q2x9sDCfuKd_eeZgAAAL: C
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Co
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Con
+/congregant#MjltfasF88xAmXZ3AAAJ: A
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Conf
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confu
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confus
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confuse
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused i
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a c
+/congregant#MjltfasF88xAmXZ3AAAJ: Ap
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a cl
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a cls
+/congregant#MjltfasF88xAmXZ3AAAJ: App
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a clsm
+/congregant#MjltfasF88xAmXZ3AAAJ: Appr
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a clam
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a clam 
+/congregant#MjltfasF88xAmXZ3AAAJ: Appre
+/congregant#MjltfasF88xAmXZ3AAAJ: Appreh
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a clam
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a cla
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehe
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehen
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a cl
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a c
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a ca
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a cal
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm e
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm ea
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm eay
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm ea
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm e
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm w
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm wa
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm way
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive w
+Prompt: are you comfortable
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wi
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wis
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish 
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish m
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my 
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my p
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my ph
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my pho
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phon
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone 
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone w
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm wayh
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone wo
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm wayha
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone wor
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm wayhar
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone work
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm wayhard
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm wayhardl
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm wayhardly
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm way hardly
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm way hardly 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm way hardly e
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worke
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm way hardly ev
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm way hardly eve
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Confused in a calm way hardly ever
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone workedh
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone workedho
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone workedhow
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how 
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how d
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do 
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do y
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do yo
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do yo
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do y
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do 
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do y
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do yo
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you 
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you d
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you de
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you dee
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you deee
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you deeel
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you deeelf
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you deeelfe
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you deeelfew
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you deeelfewl
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you deeelfewl 
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you deeelfewl f
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you deeelfewl fe
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you deeelfewl fee
+/congregant#MjltfasF88xAmXZ3AAAJ: Apprehensive wish my phone worked how do you deeelfewl feel
+/congregant#MjltfasF88xAmXZ3AAAJ: W
+/congregant#MjltfasF88xAmXZ3AAAJ: Wh
+/congregant#MjltfasF88xAmXZ3AAAJ: Who
+/congregant#MjltfasF88xAmXZ3AAAJ: Who 
+/congregant#MjltfasF88xAmXZ3AAAJ: Who r
+/congregant#MjltfasF88xAmXZ3AAAJ: Who re
+/congregant#MjltfasF88xAmXZ3AAAJ: Who re 
+/congregant#MjltfasF88xAmXZ3AAAJ: Who re y
+/congregant#MjltfasF88xAmXZ3AAAJ: Who re yo
+/congregant#MjltfasF88xAmXZ3AAAJ: Who re you
+/congregant#MjltfasF88xAmXZ3AAAJ: I
+/congregant#MjltfasF88xAmXZ3AAAJ: Is
+/congregant#MjltfasF88xAmXZ3AAAJ: Is 
+/congregant#MjltfasF88xAmXZ3AAAJ: Is t
+Prompt: Do you want to start over
+/congregant#MjltfasF88xAmXZ3AAAJ: Is 
+/congregant#MjltfasF88xAmXZ3AAAJ: Is
+/congregant#MjltfasF88xAmXZ3AAAJ: I
+/congregant#MjltfasF88xAmXZ3AAAJ: 
+/congregant#MjltfasF88xAmXZ3AAAJ: O
+/congregant#MjltfasF88xAmXZ3AAAJ: Ok
+/congregant#Q2x9sDCfuKd_eeZgAAAL: T
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Th
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Tha
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Thats
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s o
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s op
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s opt
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s opti
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optim
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimi
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimis
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimist
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimisti
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic.
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. S
+/congregant#MjltfasF88xAmXZ3AAAJ: T
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. St
+/congregant#MjltfasF88xAmXZ3AAAJ: Te
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Str
+/congregant#MjltfasF88xAmXZ3AAAJ: Tee
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Strm
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Strmt
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Stent
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Stent 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Stent e
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Stent ee
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we d
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we dt
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we dtu
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we dtuc
+/congregant#MjltfasF88xAmXZ3AAAJ: Teeh
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we dtuck
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck e
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck eo
+/congregant#MjltfasF88xAmXZ3AAAJ: Teehe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck eot
+/congregant#MjltfasF88xAmXZ3AAAJ: Teehee
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck eoth
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with o
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with ou
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our p
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our pa
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our pad
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our padt
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past?
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? 
+/congregant#MjltfasF88xAmXZ3AAAJ: H
+/congregant#MjltfasF88xAmXZ3AAAJ: Hm
+/congregant#MjltfasF88xAmXZ3AAAJ: Hmm
+/congregant#MjltfasF88xAmXZ3AAAJ: Hmmm
+/congregant#MjltfasF88xAmXZ3AAAJ: Hmmm 
+/congregant#MjltfasF88xAmXZ3AAAJ: Hmmm n
+/congregant#MjltfasF88xAmXZ3AAAJ: Hmmm no
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? L
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Le
+Prompt: Why
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Lets
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s s
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s st
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s sta
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s star
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start o
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start ob
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start obe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start obef
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start obefc
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start obefct
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start obefcth
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start obefcthe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start obefcthen
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start over then
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start over then 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start over then.
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start over then. 
+Prompt: Hi
+/congregant#MjltfasF88xAmXZ3AAAJ: H
+/congregant#MjltfasF88xAmXZ3AAAJ: He
+/congregant#MjltfasF88xAmXZ3AAAJ: Hel
+/congregant#MjltfasF88xAmXZ3AAAJ: Hell
+/congregant#MjltfasF88xAmXZ3AAAJ: Hello
+/congregant#MjltfasF88xAmXZ3AAAJ: Hello 
+/congregant#MjltfasF88xAmXZ3AAAJ: Hello y
+/congregant#MjltfasF88xAmXZ3AAAJ: Hello yo
+/congregant#MjltfasF88xAmXZ3AAAJ: Hello you
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start over then. H
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start over then. Hi
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start over then. Hi 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start over then. Hi.
+/congregant#Q2x9sDCfuKd_eeZgAAAL: That’s optimistic. Aren’t we stuck with our past? Let’s start over then. Hi. 
+/congregant#MjltfasF88xAmXZ3AAAJ: W
+/congregant#MjltfasF88xAmXZ3AAAJ: Wh
+/congregant#MjltfasF88xAmXZ3AAAJ: Why
+/congregant#MjltfasF88xAmXZ3AAAJ: Why 
+/congregant#MjltfasF88xAmXZ3AAAJ: Why i
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is 
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is t
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is th
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is tho
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is thos
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this 
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this h
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this hp
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this hpp
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this hppe
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this hppen
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this hppeni
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this hppenin
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this hppening
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this happening
+/congregant#MjltfasF88xAmXZ3AAAJ: Why is this happening 
+/congregant#MjltfasF88xAmXZ3AAAJ: D
+Prompt: How are you now
+/congregant#MjltfasF88xAmXZ3AAAJ: Do
+/congregant#MjltfasF88xAmXZ3AAAJ: Do 
+/congregant#MjltfasF88xAmXZ3AAAJ: Do y
+/congregant#MjltfasF88xAmXZ3AAAJ: Do yo
+/congregant#MjltfasF88xAmXZ3AAAJ: Do you
+/congregant#MjltfasF88xAmXZ3AAAJ: Do you 
+/congregant#MjltfasF88xAmXZ3AAAJ: Do you s
+/congregant#MjltfasF88xAmXZ3AAAJ: Do you se
+/congregant#MjltfasF88xAmXZ3AAAJ: Do you see
+/congregant#MjltfasF88xAmXZ3AAAJ: Do you see 
+/congregant#MjltfasF88xAmXZ3AAAJ: Do you see m
+/congregant#MjltfasF88xAmXZ3AAAJ: Do you see me
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I t
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I th
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I tho
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I thon
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I thonk
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I think
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I think 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I think d
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I think do
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I think so
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I think so 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I think so.
+/congregant#Q2x9sDCfuKd_eeZgAAAL: I think so. 
+/congregant#MjltfasF88xAmXZ3AAAJ: A
+/congregant#MjltfasF88xAmXZ3AAAJ: Ar
+/congregant#MjltfasF88xAmXZ3AAAJ: Are
+/congregant#MjltfasF88xAmXZ3AAAJ: Are 
+/congregant#MjltfasF88xAmXZ3AAAJ: Are w
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we 
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we g
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we go
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we goi
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we goin
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going 
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going t
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to 
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to b
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to be
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to be 
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to be f
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to be fr
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to be fro
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to be froe
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to be froeb
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to be froebd
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to be froebds
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to be friends
+/congregant#MjltfasF88xAmXZ3AAAJ: Are we going to be friends 
+/congregant#MjltfasF88xAmXZ3AAAJ: W
+/congregant#MjltfasF88xAmXZ3AAAJ: Wh
+/congregant#MjltfasF88xAmXZ3AAAJ: Wha
+/congregant#MjltfasF88xAmXZ3AAAJ: What
+/congregant#MjltfasF88xAmXZ3AAAJ: What 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: W
+/congregant#MjltfasF88xAmXZ3AAAJ: What w
+/congregant#MjltfasF88xAmXZ3AAAJ: What wi
+/congregant#MjltfasF88xAmXZ3AAAJ: What wiu
+/congregant#MjltfasF88xAmXZ3AAAJ: What wiul
+/congregant#MjltfasF88xAmXZ3AAAJ: What wiuld
+/congregant#MjltfasF88xAmXZ3AAAJ: What would
+/congregant#MjltfasF88xAmXZ3AAAJ: What would 
+/congregant#MjltfasF88xAmXZ3AAAJ: What would y
+/congregant#MjltfasF88xAmXZ3AAAJ: What would yo
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you 
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you l
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you lo
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you lol
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Wh
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you lole
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like 
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like t
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to 
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to t
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to te
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to tel
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to tell
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to tell 
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to tell m
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to tell me
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Wha
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to tell me 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to tell me t
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to tell me to
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to tell me tod
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to tell me toda
+/congregant#MjltfasF88xAmXZ3AAAJ: What would you like to tell me today
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What d
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What do
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What doe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does t
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does th
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does tha
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that t
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that ts
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that tsj
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that tsje
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take,
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, t
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, tob
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, tobe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be f
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be fr
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be fro
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be froe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be froeb
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be froebd
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be froebds
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be friends
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be friends?
+/congregant#Q2x9sDCfuKd_eeZgAAAL: What does that take, to be friends? 
+/congregant#MjltfasF88xAmXZ3AAAJ: T
+/congregant#MjltfasF88xAmXZ3AAAJ: 
+/congregant#MjltfasF88xAmXZ3AAAJ: A
+/congregant#MjltfasF88xAmXZ3AAAJ: At
+/congregant#MjltfasF88xAmXZ3AAAJ: Att
+/congregant#MjltfasF88xAmXZ3AAAJ: Atte
+/congregant#MjltfasF88xAmXZ3AAAJ: Attention
+/congregant#MjltfasF88xAmXZ3AAAJ: Attention 
+/congregant#MjltfasF88xAmXZ3AAAJ: P
+/congregant#MjltfasF88xAmXZ3AAAJ: Pa
+/congregant#MjltfasF88xAmXZ3AAAJ: Pat
+/congregant#MjltfasF88xAmXZ3AAAJ: Pati
+/congregant#MjltfasF88xAmXZ3AAAJ: Patie
+/congregant#MjltfasF88xAmXZ3AAAJ: Patien
+/congregant#MjltfasF88xAmXZ3AAAJ: Patienc
+/congregant#MjltfasF88xAmXZ3AAAJ: Patience
+/congregant#MjltfasF88xAmXZ3AAAJ: A
+/congregant#MjltfasF88xAmXZ3AAAJ: An
+/congregant#MjltfasF88xAmXZ3AAAJ: And
+/congregant#Q2x9sDCfuKd_eeZgAAAL: F
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Fa
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Fac
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Faci
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facia
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial r
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial re
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial rec
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial reco
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial recog
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial recogn
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial recogni
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial recogniy
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial recogniyi
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial recogniyio
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial recogniyion
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial recognition
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial recognition?
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Facial recognition? 
+/congregant#MjltfasF88xAmXZ3AAAJ: An
+/congregant#MjltfasF88xAmXZ3AAAJ: A
+/congregant#MjltfasF88xAmXZ3AAAJ: 
+Prompt: do you want something to eat?
+/congregant#MjltfasF88xAmXZ3AAAJ: N
+/congregant#MjltfasF88xAmXZ3AAAJ: No
+/congregant#MjltfasF88xAmXZ3AAAJ: No 
+/congregant#MjltfasF88xAmXZ3AAAJ: No t
+/congregant#MjltfasF88xAmXZ3AAAJ: No th
+/congregant#MjltfasF88xAmXZ3AAAJ: No tha
+/congregant#MjltfasF88xAmXZ3AAAJ: No than
+/congregant#MjltfasF88xAmXZ3AAAJ: No thank
+/congregant#MjltfasF88xAmXZ3AAAJ: No thank 
+/congregant#MjltfasF88xAmXZ3AAAJ: No thank y
+/congregant#Q2x9sDCfuKd_eeZgAAAL: N
+/congregant#MjltfasF88xAmXZ3AAAJ: No thank yo
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No
+/congregant#MjltfasF88xAmXZ3AAAJ: No thank you
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Non
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Nont
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Nonth
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Nonths
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Nonthsv
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Nonthsvk
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Nonthsvks
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Nonthsvk
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Nonthsv
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Nonths
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Nonth
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Nont
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Non
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No t
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No th
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No tha
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No than
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No thank
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No thanks
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No thanks 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No thanks.
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No thanks. 
+/congregant#MjltfasF88xAmXZ3AAAJ: B
+/congregant#MjltfasF88xAmXZ3AAAJ: Bu
+/congregant#MjltfasF88xAmXZ3AAAJ: But
+/congregant#MjltfasF88xAmXZ3AAAJ: But 
+/congregant#MjltfasF88xAmXZ3AAAJ: But i
+/congregant#MjltfasF88xAmXZ3AAAJ: But im
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m 
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m t
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m th
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thi
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thir
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirt
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirty
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirt
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thir
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirt
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirty
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirt
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thir
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thiry
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thir
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thi
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thir
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirt
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirty
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirt
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thir
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirt
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirty
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirt
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thir
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirs
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirst
+Prompt: when did you feel satisfied?
+/congregant#MjltfasF88xAmXZ3AAAJ: But I’m thirsty
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No thanks.
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No thanks
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No thank
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No than
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No tha
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No th
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No t
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: No
+/congregant#Q2x9sDCfuKd_eeZgAAAL: N
+/congregant#Q2x9sDCfuKd_eeZgAAAL: 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: M
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Mi
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Mid
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Midt
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Midtv
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Midtvt
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Midtvte
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Midtvtec
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Midtvtecr
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Midtvtecrn
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Midtvtecrnt
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Midtvtecrntl
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Midtvtecrntly
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Most recently
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Most recently?
+Prompt: yes
+/congregant#Q2x9sDCfuKd_eeZgAAAL: W
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Wa
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Wal
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walk
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walki
+Prompt: or anytime
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walkin
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking o
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking ou
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking out
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outd
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outdi
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outdid
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outdide
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside t
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside th
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside thi
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this m
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this mt
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this mti
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this mtim
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this mtimi
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this mtimib
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this mtimibg
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this mtimibga
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this mtimibgam
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this mtimibgamf
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and f
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and fe
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and fee
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feel
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feelo
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feelon
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feelong
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feelon
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feelo
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feel
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeli
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feelin
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling r
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling rh
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling rhr
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling the
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling the 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling the b
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling the br
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling the bre
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling the bree
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling the breez
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling the breeze
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling the breeze 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling the breeze.
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Walking outside this morning and feeling the breeze. 
+Prompt: when did you feel unhappy?
+/congregant#Q2x9sDCfuKd_eeZgAAAL: T
+/congregant#Q2x9sDCfuKd_eeZgAAAL: 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: A
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An h
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An ho
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An hou
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An hour
+/congregant#MjltfasF88xAmXZ3AAAJ: Y
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An hour 
+/congregant#MjltfasF88xAmXZ3AAAJ: Ye
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An hour a
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An hour ag
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An hour ago
+/congregant#MjltfasF88xAmXZ3AAAJ: Yes
+/congregant#MjltfasF88xAmXZ3AAAJ: Yest
+/congregant#MjltfasF88xAmXZ3AAAJ: Yeste
+/congregant#MjltfasF88xAmXZ3AAAJ: Yester
+/congregant#MjltfasF88xAmXZ3AAAJ: Yesterd
+/congregant#MjltfasF88xAmXZ3AAAJ: Yesterdy
+/congregant#MjltfasF88xAmXZ3AAAJ: Yesterday
+/congregant#MjltfasF88xAmXZ3AAAJ: Yesterday 
+Prompt: can you tell me about it?
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An hour ag
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An hour a
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An hour 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An hour
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An hou
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An ho
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An h
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: An
+/congregant#Q2x9sDCfuKd_eeZgAAAL: A
+/congregant#Q2x9sDCfuKd_eeZgAAAL: 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: T
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Th
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The u
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The un
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unh
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unha
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhap
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhapp
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappi
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappin
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappine
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappines
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness o
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness ot
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness or
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness or 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness or t
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness or th
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness or the
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness or the 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness or the t
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness or the ti
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness or the tim
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness or the time
+/congregant#Q2x9sDCfuKd_eeZgAAAL: The unhappiness or the time?
+Prompt: either both
+Prompt: start with the feeling
+/congregant#Q2x9sDCfuKd_eeZgAAAL: A
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Af
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Aft
+/congregant#Q2x9sDCfuKd_eeZgAAAL: Afte
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After s
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After sn
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an e
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an em
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an ems
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an emsi
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an emsil
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an emsiln
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an emsilns
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an emsilnsd
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an emsilnsde
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made m
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me n
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me na
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me nas
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me mad
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me mad 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me mad.
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me mad. 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me mad.
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me mad
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me ma
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me m
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made me
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made m
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email made
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email mad
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email ma
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email m
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an email
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an emai
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an ema
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an em
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an e
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After an
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After a
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After 
+/congregant#Q2x9sDCfuKd_eeZgAAAL: After
+/congregant#Q2x9sDCfuKd_eeZgAAAL: 
+/congregant#MjltfasF88xAmXZ3AAAJ: I
+/congregant#MjltfasF88xAmXZ3AAAJ: It
+/congregant#MjltfasF88xAmXZ3AAAJ: It 
+/congregant#MjltfasF88xAmXZ3AAAJ: It w
+/congregant#MjltfasF88xAmXZ3AAAJ: It w 
+/congregant#MjltfasF88xAmXZ3AAAJ: It w
+/congregant#MjltfasF88xAmXZ3AAAJ: It wa
+/congregant#MjltfasF88xAmXZ3AAAJ: It was
+/congregant#MjltfasF88xAmXZ3AAAJ: It was 
+/congregant#MjltfasF88xAmXZ3AAAJ: It was.
+/congregant#MjltfasF88xAmXZ3AAAJ: It was. 
+Prompt: were you able to reply to the email?
