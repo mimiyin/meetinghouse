@@ -1,9 +1,12 @@
 // Open and connect input socket
-let socket = io('/congregant');
+let socket = io();
+// Keep track of which line
+let users = {};
 
 // Listen for confirmation of connection
 socket.on('connect', function () {
   console.log("Connected");
+  users[socket.id] = 0;
 });
 
 // Input field
@@ -18,36 +21,46 @@ function setup() {
   input.input(inputChanged);
 
   // Listen for texts from partners
-  socket.on('text', function (data) {
-    console.log(data);
-    display('you', data);
+  socket.on('text', function(message) {
+    let id = message.id;
+    let data = message.data;
+    // Store data
+    if(!(id in users)) users[id] = 0;
+    // If the element is already there, update the text
+   let p;
+    try {
+      p = select('#' + createId(id)).html(data);
+      p.removeClass('fade');
+      setTimeout(()=>p.addClass('fade'), 100);
+    }
+    // Otherwise create a new one
+    catch {
+      p = createP(data).id(createId(id));
+      p.addClass('fade');
+    }
   });
 
-  // Listen for prompts
-  socket.on('prompt', function(data){
-    display('minister', data);
-  })
+  // Listen for completion and prepare a new line
+  socket.on('complete', (id)=>{
+    if(id in users) users[id]++;
+  });
 
   // Remove disconnected users
   // Display "User left" message
   socket.on('leave room', function (id) {
-    display('(they left...)');
+    createP('(they left...)').addClass('fade');
   });
 }
 
-// Display text
-function display(who, txt) {
-  select('.' + who).remove();
-  let p = createP();
-  p.addClass('fade').addClass(who);
-  p.html(txt);
+// Create element id name
+function createId(id) {
+  return id + '-' + users[id];
 }
 
 // Send user input as they type it.
 function inputChanged() {
   let data = this.value();
   socket.emit('text', data);
-  display('me', data)
 }
 
 // Listen for line breaks to clear input field

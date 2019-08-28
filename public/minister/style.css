@@ -1,23 +1,30 @@
 body {
-  margin: 0px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
+  margin: 0;
+
+  /* width: 100vw;
+  height: 90vh; */
 }
 #input {
   position: fixed;
-  bottom: 0px;
-  left: 0px;
+  bottom: 0;
+  left: 0;
   width: 100vw;
   height: 2em;
   font-size: 1.5em;
 }
+#transcript {
+  display: block;
+  position: absolute;
+  bottom: 4em;
+  left: 0;
+  height: auto;
+  overflow-y: scroll;
+}
 p {
   font-family: sans-serif;
   font-size: 1.5em;
-  text-align: center;
-  margin-top: 40vh;
+  text-align: left;
+  margin: 0.25em 0;
 }
 p.fade {
   -webkit-transition: opacity 10s ease-in-out;
