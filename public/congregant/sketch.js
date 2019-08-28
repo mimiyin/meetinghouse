@@ -1,5 +1,5 @@
 // Open and connect input socket
-let socket = io();
+let socket = io('/congregant');
 // Keep track of which line
 let users = {};
 

@@ -1,5 +1,5 @@
 // Open and connect input socket
-let socket = io();
+let socket = io('/minister');
 // Keep track of which line
 let users = {};
 
@@ -33,19 +33,26 @@ function setup() {
     // Store data
     if(!(id in users)) users[id] = 0;
     // If the element is already there, update the text
-    try {
-      select('#' + createId(id)).html(data);
-    }
-    // Otherwise create a new one
-    catch {
-      transcript.child(createP(data).id(createId(id)));
-    }
+    type(id, data);
   });
 
   // Listen for completion and prepare a new line
-  socket.on('complete', (id)=>{
-    if(id in users) users[id]++;
-  });
+  socket.on('complete', complete);
+}
+
+function type(id, data) {
+  try {
+    select('#' + createId(id)).html(data);
+  }
+  // Otherwise create a new one
+  catch {
+    transcript.child(createP(data).id(createId(id)));
+  }
+}
+
+// User has completed a line of text
+function complete(id) {
+  if(id in users) users[id]++;
 }
 
 // Create element id name
@@ -56,11 +63,13 @@ function createId(id) {
 // Send user input as they type it.
 function inputChanged() {
   socket.emit('text', this.value());
+  type(socket.id, this.value());
 }
 // Listen for line breaks to clear input field
 function keyPressed() {
   if (keyCode == ENTER || keyCode == RETURN) {
     socket.emit('complete', input.value());
     input.value('');
+    complete(socket.id);
   }
 }
