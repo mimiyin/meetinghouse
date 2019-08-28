@@ -98,7 +98,6 @@ congregants.on('connection', function(socket) {
 
     // Which private room does this client belong to?
     let r = socket.room;
-    console.log("I belong in room: " + r);
 
     // Wrap up data with socketId
     let message = {
@@ -110,24 +109,22 @@ congregants.on('connection', function(socket) {
     congregants.to(r).emit('text', message);
     // Share to minister for room
     if(mins[r]) ministers.to(mins[r].id).emit('text', message);
-
-    // Which log to write message to
-    const path = r + '.txt';
-    // Message to write to log
-    const entry = socket.id + ': ' + data;
-    // Log it
-    //log(path, entry);
-
   });
 
   // Listen for complete response
-  socket.on('complete', () => {
+  socket.on('complete', (data) => {
     // Which private room does this client belong to?
     let r = socket.room;
     // Share data to all members of room
     congregants.to(r).emit('complete', socket.id);
     // Share to minister for room
-    if(mins[r]) socket.to(mins[r]).emit('complete', socket.id);
+    if(mins[r]) ministers.to(mins[r].id).emit('complete', socket.id);
+    // Which log to write message to
+    const path = r + '.txt';
+    // Message to write to log
+    const entry = socket.id + ': ' + data;
+    // Log it
+    log(path, entry);
   });
 
 
@@ -142,7 +139,7 @@ congregants.on('connection', function(socket) {
     if (rooms[r]) socket.to(r).emit('leave room');
 
     // Tell minister you've left
-    if(mins[r]) socket.to(mins[r]).emit('leave room', socket.id);
+    if(mins[r]) ministers.to(mins[r].id).emit('leave room', socket.id);
   });
 });
 
