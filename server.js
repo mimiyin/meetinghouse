@@ -166,12 +166,11 @@ function joinRoom(socket) {
       continue;
     }
   }
-}
 
-// If there are no incomplete rooms, create new room and join it
-addSocketToRoom(socket, roomNum);
-roomNum++;
-roomNum %= NUM_ROOMS;
+  // If there are no incomplete rooms, create new room and join it
+  addSocketToRoom(socket, roomNum);
+  roomNum++;
+  roomNum %= NUM_ROOMS;
 }
 
 // Add client to room and record which room it was added to
