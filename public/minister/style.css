@@ -3,7 +3,7 @@ body {
 }
 #input {
   position: fixed;
-  bottom: 0;
+  top: 0;
   left: 0;
   width: 100vw;
   height: 2em;
@@ -12,8 +12,8 @@ body {
 
 #transcript {
   display: block;
-  position: absolute;
-  bottom: 4em;
+  position: relative;
+  top: 4em;
   left: 1em;
   height: auto;
 }

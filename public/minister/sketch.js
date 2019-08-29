@@ -46,7 +46,8 @@ function type(id, data) {
   }
   // Otherwise create a new one
   catch {
-    transcript.child(createP(data).id(createId(id)));
+    let p = createP(data).id(createId(id));
+    transcript.elt.prepend(p.elt);
   }
 }
 
