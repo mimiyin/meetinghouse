@@ -175,12 +175,15 @@ function joinRoom(socket) {
 
 // Add client to room and record which room it was added to
 function addSocketToRoom(socket, r) {
-  let room = rooms[r];
-  if (room.length > NUM_PARTNERS) return;
-  socket.join(r);
-  rooms[r].isPrivate = true;
-  socket.room = r;
-  console.log(rooms);
+  try {
+    let room = rooms[r];
+    if (room.length > NUM_PARTNERS) return;
+  } catch {
+    socket.join(r);
+    rooms[r].isPrivate = true;
+    socket.room = r;
+    console.log(rooms);
+  }
 }
 
 // Write to log file
