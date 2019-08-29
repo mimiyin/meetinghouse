@@ -156,26 +156,28 @@ congregants.on('connection', function(socket) {
 // Join room
 function joinRoom(socket) {
   // Sort backwards
-  if(Math.random(1) > 0.5) rnums.reverse();
+  if (Math.random(1) > 0.5) rnums.reverse();
   // First, add client to incomplete rooms
   for (let r of rnums) {
     try {
-      let room = rooms[r];
-      if (room.length < NUM_PARTNERS) {
-        addSocketToRoom(socket, r);
-        return;
-      }
-    } catch { continue; }
+      addSocketToRoom(socket, r);
+      return;
+    }
+  } catch {
+    continue;
   }
+}
 
-  // If there are no incomplete rooms, create new room and join it
-  addSocketToRoom(socket, roomNum);
-  roomNum++;
-  roomNum %= NUM_ROOMS;
+// If there are no incomplete rooms, create new room and join it
+addSocketToRoom(socket, roomNum);
+roomNum++;
+roomNum %= NUM_ROOMS;
 }
 
 // Add client to room and record which room it was added to
 function addSocketToRoom(socket, r) {
+  let room = rooms[r];
+  if (room.length > NUM_PARTNERS) return;
   socket.join(r);
   rooms[r].isPrivate = true;
   socket.room = r;
