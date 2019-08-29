@@ -160,7 +160,10 @@ function joinRoom(socket) {
   // First, add client to incomplete rooms
   for (let r of rnums) {
     try {
-      addSocketToRoom(socket, r);
+      let room = rooms[r];
+      if (room.length > NUM_PARTNERS) {
+        addSocketToRoom(socket, r);
+      }
       return;
     } catch {
       continue;
@@ -175,15 +178,10 @@ function joinRoom(socket) {
 
 // Add client to room and record which room it was added to
 function addSocketToRoom(socket, r) {
-  try {
-    let room = rooms[r];
-    if (room.length > NUM_PARTNERS) return;
-  } catch {
-    socket.join(r);
-    rooms[r].isPrivate = true;
-    socket.room = r;
-    console.log(rooms);
-  }
+  socket.join(r);
+  rooms[r].isPrivate = true;
+  socket.room = r;
+  console.log(rooms);
 }
 
 // Write to log file
