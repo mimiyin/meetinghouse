@@ -163,12 +163,20 @@ function joinRoom(socket) {
     try {
       let room = rooms[r];
       if (room.length < NUM_PARTNERS) {
+        // console.log("Partners: " + room.length);
         addSocketToRoom(socket, r);
         return;
       }
     } catch {
       continue;
     }
+  }
+
+  // If room doesn't exist, create it
+  if (!rooms[roomNum]) {
+    addSocketToRoom(socket, roomNum);
+    roomNum++;
+    roomNum %= NUM_ROOMS;
   }
 }
 
