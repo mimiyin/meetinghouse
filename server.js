@@ -161,7 +161,7 @@ function joinRoom(socket) {
   for (let r of rnums) {
     try {
       let room = rooms[r];
-      if (room.length > NUM_PARTNERS) {
+      if (room.length < NUM_PARTNERS) {
         addSocketToRoom(socket, r);
         return;
       }
