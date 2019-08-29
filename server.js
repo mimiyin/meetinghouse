@@ -162,9 +162,9 @@ function joinRoom(socket) {
     try {
       addSocketToRoom(socket, r);
       return;
+    } catch {
+      continue;
     }
-  } catch {
-    continue;
   }
 }
 
