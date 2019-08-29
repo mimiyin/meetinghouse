@@ -6,7 +6,7 @@ let users = {};
 // Listen for confirmation of connection
 socket.on('connect', function () {
   console.log("Connected");
-  users[socket.id] = 0;
+  users[socket.id] = false;
 });
 
 // Input field
@@ -25,24 +25,33 @@ function setup() {
     let id = message.id;
     let data = message.data;
     // Store data
-    if(!(id in users)) users[id] = 0;
+    if(!(id in users)) users[id] = false;
+
+    // Remove it if it's been completed
+    if(users[id]) {
+      select('#' + id).remove();
+      // Return to false
+      users[id] = false;
+    }
+
     // If the element is already there, update the text
    let p;
     try {
-      p = select('#' + createId(id)).html(data);
-      p.removeClass('fade');
-      setTimeout(()=>p.addClass('fade'), 100);
+      p = select('#' + id).html(data);
+      p.elt.className = '';
+      if(p.timeout) clearTimeout(p.timeout);
+      p.timeout = setTimeout(()=>p.addClass('fade'), 100);
     }
     // Otherwise create a new one
     catch {
-      p = createP(data).id(createId(id));
+      p = createP(data).id(id);
       p.addClass('fade');
     }
   });
 
   // Listen for completion and prepare a new line
   socket.on('complete', (id)=>{
-    if(id in users) users[id]++;
+    if(id in users) users[id] = true;
   });
 
   // Remove disconnected users

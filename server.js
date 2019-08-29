@@ -32,8 +32,14 @@ let NUM_PARTNERS = 2;
 // How many rooms?
 let NUM_ROOMS = 2;
 
+// Room numbers
+let rnums = [];
+for (let n = 0; n < NUM_ROOMS; n++) {
+  rnums.push(n);
+}
+
 // Initialize ministers
-for(let m = 0; m < NUM_ROOMS; m++) {
+for (let m = 0; m < NUM_ROOMS; m++) {
   mins[m] = null;
 }
 
@@ -43,8 +49,8 @@ ministers.on('connection', function(socket) {
 
   // Assign minister to room
   let assigned = false;
-  for(let m = 0; m < NUM_ROOMS; m++) {
-    if(!mins[m]) {
+  for (let m = 0; m < NUM_ROOMS; m++) {
+    if (!mins[m]) {
       socket.room = m;
       mins[m] = socket;
       assigned = true;
@@ -52,7 +58,7 @@ ministers.on('connection', function(socket) {
     }
   }
 
-  if(assigned) console.log("Minister assigned to room: " + socket.room);
+  if (assigned) console.log("Minister assigned to room: " + socket.room);
   else console.log("Failed to assign minister to room. ");
 
   // Send along the prompts
@@ -61,7 +67,9 @@ ministers.on('connection', function(socket) {
       id: socket.id,
       data: data
     };
-    congregants.to(socket.room).emit('text', message);
+    //This socket's room
+    let r = socket.room;
+    congregants.to(r).emit('text', message);
     //console.log('Prompt: ' + data);
   })
 
@@ -69,6 +77,8 @@ ministers.on('connection', function(socket) {
     console.log('Complete prompt: ' + data);
     //This socket's room
     let r = socket.room;
+    // Tell congregants that you're done.
+    congregants.to(r).emit('complete', socket.id);
     // Which log to write message to
     const path = r + '.txt';
     // Message to write to log
@@ -108,7 +118,7 @@ congregants.on('connection', function(socket) {
     // Share data to all members of room
     congregants.to(r).emit('text', message);
     // Share to minister for room
-    if(mins[r]) ministers.to(mins[r].id).emit('text', message);
+    if (mins[r]) ministers.to(mins[r].id).emit('text', message);
   });
 
   // Listen for complete response
@@ -118,7 +128,7 @@ congregants.on('connection', function(socket) {
     // Share data to all members of room
     congregants.to(r).emit('complete', socket.id);
     // Share to minister for room
-    if(mins[r]) ministers.to(mins[r].id).emit('complete', socket.id);
+    if (mins[r]) ministers.to(mins[r].id).emit('complete', socket.id);
     // Which log to write message to
     const path = r + '.txt';
     // Message to write to log
@@ -139,22 +149,23 @@ congregants.on('connection', function(socket) {
     if (rooms[r]) socket.to(r).emit('leave room');
 
     // Tell minister you've left
-    if(mins[r]) ministers.to(mins[r].id).emit('leave room', socket.id);
+    if (mins[r]) ministers.to(mins[r].id).emit('leave room', socket.id);
   });
 });
 
 // Join room
 function joinRoom(socket) {
-
+  // Sort backwards
+  if(Math.random(1) > 0.5) rnums.reverse();
   // First, add client to incomplete rooms
-  for (let r in rooms) {
-    let room = rooms[r];
-    if (room.isPrivate) {
+  for (let r of rnums) {
+    try {
+      let room = rooms[r];
       if (room.length < NUM_PARTNERS) {
         addSocketToRoom(socket, r);
         return;
       }
-    }
+    } catch { continue; }
   }
 
   // If there are no incomplete rooms, create new room and join it

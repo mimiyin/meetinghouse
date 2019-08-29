@@ -1,8 +1,5 @@
 body {
   margin: 0;
-
-  /* width: 100vw;
-  height: 90vh; */
 }
 #input {
   position: fixed;
@@ -12,13 +9,13 @@ body {
   height: 2em;
   font-size: 1.5em;
 }
+
 #transcript {
   display: block;
   position: absolute;
   bottom: 4em;
-  left: 0;
+  left: 1em;
   height: auto;
-  overflow-y: scroll;
 }
 p {
   font-family: sans-serif;
