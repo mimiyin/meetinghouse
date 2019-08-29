@@ -157,6 +157,7 @@ congregants.on('connection', function(socket) {
 function joinRoom(socket) {
   // Sort backwards
   if (Math.random(1) > 0.5) rnums.reverse();
+
   // First, add client to incomplete rooms
   for (let r of rnums) {
     try {
@@ -169,11 +170,6 @@ function joinRoom(socket) {
       continue;
     }
   }
-
-  // If there are no incomplete rooms, create new room and join it
-  addSocketToRoom(socket, roomNum);
-  roomNum++;
-  roomNum %= NUM_ROOMS;
 }
 
 // Add client to room and record which room it was added to
